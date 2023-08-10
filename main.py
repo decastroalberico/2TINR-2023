@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-dicionario = {1254:["Alberico", "Professor"]}
+"""
+A module for demonstrating a dictionary and how to print its contents.
+"""
+
+dicionario = {1254: ["Alberico", "Professor"]}
 
 def exibir():
     for chave, lista in dicionario.items():
