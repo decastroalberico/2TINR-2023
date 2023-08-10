@@ -5,3 +5,5 @@ def exibir():
         print("Cod. do Funcionario...", chave)
         print("Nome..................", lista[0])
         print("Cargo.................", lista[1])
+
+exibir()
