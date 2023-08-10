@@ -1,4 +1,4 @@
--- coding: utf-8 --
+# -*- coding: utf-8 -*-
 dicionario = {1254:["Alberico", "Professor"]}
 
 def exibir():
